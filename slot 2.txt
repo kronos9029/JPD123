@@ -61,8 +61,13 @@ tính từ Na
 すしは　おいしいです　Sushi wa oishīdesu
 Sushi wa oishīdesu
 
+
+
+phủ định sau i 　「いーADJ」＋くないです
 すしは　おいしくないです
 Sushi wa oishikunaidesu
+
+phủ định sau na　「なーADJ」＋じゃありません
 
 ゆうめいです　
 
@@ -71,12 +76,12 @@ FPT大学は　あたらしいところです
 
 いいですが、たかいです
 　　　nhưng
+
 いいです、そして やすいです
-               và
+        và
 あります
 
-phủ định sau i 
-và na
+
 
 
 

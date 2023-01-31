@@ -8,6 +8,9 @@ tokyo どですか
 とても rất lắm
 たいへん cực kì, vô cùng
 
+「SUBJECT」＋は　どこですか　
+「SUBJECT」　như thế nào
+
 なっとうはどうですか？ đậu nành như thế nào
 おいしくないです nó không ngon chút nào
 たかくないです nó không mắc lắm
@@ -17,7 +20,7 @@ tokyo どですか
 
 
 Aさんは　どんなですか　A là người như thế nào?
-Aさんは　しんせつなです　そして、きれいです　bạn A là người tốt bụng
+Aさんは　しんせつなです　そして、きれいです　bạn A là người tốt bụng và đẹp
 
 FPTだいがっくは　どうですか？Trường đại học FPT như thế nào
 あまり　おおきくないですが、とても　おたりいます không to lắm nhưng rất mới
@@ -40,6 +43,9 @@ FPTだいがっくは　どうですか？Trường đại học FPT như thế 
 
 70 74 75　78 79 80
 
+
+モスクワになにがありますか？Có gì ở Mátxcơva?
+Mosukuwa ni nani ga arimasu ka?
 
 
 
