@@ -1,12 +1,12 @@
-しゅまつ
-いえ
+しゅまつ Cuối tuần
+いえ nhà
 へや　部屋　CAN　PHONG
 びじゅや
-かぞく
-ちち
-ちちうえ
-ちち
-ともだち
+かぞく gia đình
+ちち bố
+ちちうえ bố
+お母さん mẹ
+ともだち người bạn
 ルームメイト　ROOMATETO
 レストラン　resutoran
 明日　あした　ngày mai
@@ -18,7 +18,7 @@
 ～で～をつくります　làm ra/ chế tạo
 ～で～をかいます　mua sắm
 ～でかいものします mua sắm (chung chung)
-～で～をたべます　ăn
+～で～をたべます　ăn    
 ～でじょくじします　ăn(chung chung)
 ～をそうじします　dọn dẹp
 ～をせんたくします　giặt dũ
@@ -26,7 +26,7 @@
 
 Hiện tại	　Quá khứ
 V＋ます		　V＋ました
-V＋ません		　V＋ませんでした
+V＋ません	  V＋ませんでした
 
 
 
