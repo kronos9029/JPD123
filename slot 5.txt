@@ -1,7 +1,6 @@
-しゅまつ Cuối tuần
 いえ nhà
 へや　部屋　CAN　PHONG
-びじゅや
+びじゅつかん  bảo tàng mỹ thuật
 かぞく gia đình
 ちち bố
 ちちうえ bố
@@ -12,17 +11,21 @@
 明日　あした　ngày mai
 今日  きょう　hôm nay
 昨日　きのう　hôm qua
+しゅまつ Cuối tuần
 
 がっこでせんせいにあります　gặp cô giáo ở trường học
 
 ～で～をつくります　làm ra/ chế tạo
 ～で～をかいます　mua sắm
 ～でかいものします mua sắm (chung chung)
-～で～をたべます　ăn    
+～で～をたべます　ăn
 ～でじょくじします　ăn(chung chung)
 ～をそうじします　dọn dẹp
 ～をせんたくします　giặt dũ
 「PERSON1」は「PLACE」で「PERSON2」にあいます　một bên đi để gặp bên kia
+
+cùng với -> と
+ở -> で
 
 Hiện tại	　Quá khứ
 V＋ます		　V＋ました
@@ -30,7 +33,7 @@ V＋ません	  V＋ませんでした
 
 
 
-cùng với -> と
+
 
 ngày mai tôi không đến trường　わたしはあしたがっこにいきません
 
