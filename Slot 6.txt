@@ -1,11 +1,11 @@
- Bị cảm
+かぜをいきます Bị cảm
 てんきがいい  thời tiết tốt
 てんきがわるい  thời tiết sấu
 ふく	quần áo(nói chung)
 やま　に　のぼります　leo núi
 きっさてん　に　はいります　vào quán nước
 いそがし　bận rộn
-おもしろい	 thú vị
+おもしろい	thú vị
 つまらない  chán
 きのちがいい　tâm trạng tốt
 きもちがわるい tâm trạng tệ
@@ -19,7 +19,7 @@
 ねむい　buồn ngủ
 
 Quá khứ 「いーADJ」
-Khẳng định たのしいです　→　たのしたったです
+Khẳng định たのしいです　→　たのしかったです
 Phủ định   たのしくないです　→　たのしくなかったです
 
 Quá khứ 「なーADJ」
