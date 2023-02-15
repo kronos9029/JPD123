@@ -76,3 +76,18 @@
 ひま	 rảnh rỗi
 ねむい　buồn ngủ
 
+アニメ　anime
+え　tranh vẽ
+けしき　phong cảnh
+じてんしゃ　xe đạp
+しゃしん　hình ảnh
+～でしゃしんをとります chụp ảnh tại
+かります　mượn
+せんせい　に　ほん　を　かります tôi mượn　sách của cô giáo
+
+
+N　がほしい　muốn đồ vật gì đó *
+N　がすき	 thích *
+N　がすきでわありません　không thích *
+N　がきらい  ghét *
+
